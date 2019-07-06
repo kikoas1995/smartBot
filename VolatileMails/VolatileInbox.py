@@ -15,6 +15,7 @@ class TempAddrMail:
         self.driver.get('https://getnada.com/#')
         sleep(2)
 
+
     def getEmailAddr(self,):
         element = self.driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div[1]/div[2]/div/div[1]/h1/span[2]")
         return element.text
@@ -26,7 +27,7 @@ class TempAddrMail:
                     break
                 sleep(10)
 
-            
+
         str = elements[0].text
         self.driver.close()
         return str.partition(" ")[0]
