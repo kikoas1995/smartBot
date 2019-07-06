@@ -1,0 +1,407 @@
+1562410223785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X0vCn14GQt3w"
+
+(firefox-esr:19790): Gtk-WARNING **: 12:50:23.834: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:19790): Gtk-WARNING **: 12:50:23.849: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:19790): Gtk-WARNING **: 12:50:23.849: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:19790): Gtk-WARNING **: 12:50:24.518: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19790): Gtk-WARNING **: 12:50:24.518: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:19846): Gtk-WARNING **: 12:50:24.900: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:19846): Gtk-WARNING **: 12:50:24.918: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:19846): Gtk-WARNING **: 12:50:24.918: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562410225805	Marionette	INFO	Listening on port 42623
+1562410225902	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:19913): Gtk-WARNING **: 12:50:26.193: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:19913): Gtk-WARNING **: 12:50:26.213: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:19913): Gtk-WARNING **: 12:50:26.213: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562410242377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ruIeLACtAGkd"
+
+(firefox-esr:19963): Gtk-WARNING **: 12:50:42.427: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:19963): Gtk-WARNING **: 12:50:42.442: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:19963): Gtk-WARNING **: 12:50:42.442: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:19963): Gtk-WARNING **: 12:50:43.157: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19963): Gtk-WARNING **: 12:50:43.157: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:20021): Gtk-WARNING **: 12:50:43.586: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20021): Gtk-WARNING **: 12:50:43.605: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20021): Gtk-WARNING **: 12:50:43.605: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562410244594	Marionette	INFO	Listening on port 46873
+1562410244689	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:20089): Gtk-WARNING **: 12:50:45.094: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20089): Gtk-WARNING **: 12:50:45.112: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20089): Gtk-WARNING **: 12:50:45.112: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562411168801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QVfN3VgSCzl7"
+
+(firefox-esr:20531): Gtk-WARNING **: 13:06:08.859: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:20531): Gtk-WARNING **: 13:06:08.879: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:20531): Gtk-WARNING **: 13:06:08.879: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:20531): Gtk-WARNING **: 13:06:09.506: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20531): Gtk-WARNING **: 13:06:09.506: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:20594): Gtk-WARNING **: 13:06:09.927: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20594): Gtk-WARNING **: 13:06:09.945: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20594): Gtk-WARNING **: 13:06:09.945: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411170912	Marionette	INFO	Listening on port 39259
+1562411171025	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:20664): Gtk-WARNING **: 13:06:11.422: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20664): Gtk-WARNING **: 13:06:11.440: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20664): Gtk-WARNING **: 13:06:11.440: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562411193618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4vxs2fS6NBi5"
+
+(firefox-esr:20718): Gtk-WARNING **: 13:06:33.673: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:20718): Gtk-WARNING **: 13:06:33.690: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:20718): Gtk-WARNING **: 13:06:33.690: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:20718): Gtk-WARNING **: 13:06:34.371: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20718): Gtk-WARNING **: 13:06:34.371: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:20776): Gtk-WARNING **: 13:06:34.782: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20776): Gtk-WARNING **: 13:06:34.799: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20776): Gtk-WARNING **: 13:06:34.800: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411195721	Marionette	INFO	Listening on port 45889
+1562411195735	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:20843): Gtk-WARNING **: 13:06:36.232: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20843): Gtk-WARNING **: 13:06:36.249: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20843): Gtk-WARNING **: 13:06:36.249: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1562411277386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uLnbYFWSsyND"
+
+(firefox-esr:21039): Gtk-WARNING **: 13:07:57.435: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:21039): Gtk-WARNING **: 13:07:57.451: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:21039): Gtk-WARNING **: 13:07:57.451: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:21039): Gtk-WARNING **: 13:07:58.132: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21039): Gtk-WARNING **: 13:07:58.132: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:21096): Gtk-WARNING **: 13:07:58.503: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21096): Gtk-WARNING **: 13:07:58.518: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21096): Gtk-WARNING **: 13:07:58.518: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411279460	Marionette	INFO	Listening on port 46229
+1562411279517	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:21166): Gtk-WARNING **: 13:07:59.942: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21166): Gtk-WARNING **: 13:07:59.959: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21166): Gtk-WARNING **: 13:07:59.959: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562411340142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jOq55qNgwjXe"
+
+(firefox-esr:21236): Gtk-WARNING **: 13:09:00.203: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:21236): Gtk-WARNING **: 13:09:00.218: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:21236): Gtk-WARNING **: 13:09:00.218: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:21236): Gtk-WARNING **: 13:09:00.931: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21236): Gtk-WARNING **: 13:09:00.931: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:21292): Gtk-WARNING **: 13:09:01.377: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21292): Gtk-WARNING **: 13:09:01.394: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21292): Gtk-WARNING **: 13:09:01.394: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411342323	Marionette	INFO	Listening on port 34391
+1562411342378	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:21361): Gtk-WARNING **: 13:09:02.810: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21361): Gtk-WARNING **: 13:09:02.839: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21361): Gtk-WARNING **: 13:09:02.839: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1562411400082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.khPYZ5p0PPBh"
+
+(firefox-esr:21437): Gtk-WARNING **: 13:10:00.133: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:21437): Gtk-WARNING **: 13:10:00.149: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:21437): Gtk-WARNING **: 13:10:00.149: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:21437): Gtk-WARNING **: 13:10:00.803: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21437): Gtk-WARNING **: 13:10:00.803: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:21495): Gtk-WARNING **: 13:10:01.201: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21495): Gtk-WARNING **: 13:10:01.217: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21495): Gtk-WARNING **: 13:10:01.217: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411402232	Marionette	INFO	Listening on port 44993
+1562411402317	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:21559): Gtk-WARNING **: 13:10:02.787: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21559): Gtk-WARNING **: 13:10:02.805: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21559): Gtk-WARNING **: 13:10:02.805: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562411500910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6q9m00nzwQJl"
+
+(firefox-esr:21647): Gtk-WARNING **: 13:11:40.971: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:21647): Gtk-WARNING **: 13:11:40.995: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:21647): Gtk-WARNING **: 13:11:40.995: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:21647): Gtk-WARNING **: 13:11:41.622: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21647): Gtk-WARNING **: 13:11:41.622: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:21707): Gtk-WARNING **: 13:11:42.015: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21707): Gtk-WARNING **: 13:11:42.031: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21707): Gtk-WARNING **: 13:11:42.031: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411502947	Marionette	INFO	Listening on port 38371
+1562411503033	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:21772): Gtk-WARNING **: 13:11:43.372: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21772): Gtk-WARNING **: 13:11:43.392: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21772): Gtk-WARNING **: 13:11:43.392: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1562411619539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gIHda9ocdjxd"
+
+(firefox-esr:21878): Gtk-WARNING **: 13:13:39.589: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:21878): Gtk-WARNING **: 13:13:39.605: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:21878): Gtk-WARNING **: 13:13:39.605: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:21878): Gtk-WARNING **: 13:13:40.323: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21878): Gtk-WARNING **: 13:13:40.323: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:21936): Gtk-WARNING **: 13:13:40.744: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:21936): Gtk-WARNING **: 13:13:40.758: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:21936): Gtk-WARNING **: 13:13:40.759: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411621674	Marionette	INFO	Listening on port 35745
+1562411621756	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:22009): Gtk-WARNING **: 13:13:42.135: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22009): Gtk-WARNING **: 13:13:42.152: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22009): Gtk-WARNING **: 13:13:42.152: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562411661157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IytOCDxtX9Yo"
+
+(firefox-esr:22082): Gtk-WARNING **: 13:14:21.211: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:22082): Gtk-WARNING **: 13:14:21.226: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:22082): Gtk-WARNING **: 13:14:21.226: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:22082): Gtk-WARNING **: 13:14:21.898: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:22082): Gtk-WARNING **: 13:14:21.898: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:22140): Gtk-WARNING **: 13:14:22.303: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22140): Gtk-WARNING **: 13:14:22.321: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22140): Gtk-WARNING **: 13:14:22.321: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411663293	Marionette	INFO	Listening on port 33279
+1562411663370	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:22206): Gtk-WARNING **: 13:14:23.775: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22206): Gtk-WARNING **: 13:14:23.793: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22206): Gtk-WARNING **: 13:14:23.793: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562411861451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q7Kb68zcxubp"
+
+(firefox-esr:22422): Gtk-WARNING **: 13:17:41.504: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:22422): Gtk-WARNING **: 13:17:41.521: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:22422): Gtk-WARNING **: 13:17:41.521: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:22422): Gtk-WARNING **: 13:17:42.172: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:22422): Gtk-WARNING **: 13:17:42.172: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:22480): Gtk-WARNING **: 13:17:42.578: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22480): Gtk-WARNING **: 13:17:42.595: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22480): Gtk-WARNING **: 13:17:42.595: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562411863485	Marionette	INFO	Listening on port 42621
+1562411863565	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:22544): Gtk-WARNING **: 13:17:44.042: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22544): Gtk-WARNING **: 13:17:44.062: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22544): Gtk-WARNING **: 13:17:44.062: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562412094200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0IDc2UVdSDY5"
+
+(firefox-esr:22636): Gtk-WARNING **: 13:21:34.257: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:22636): Gtk-WARNING **: 13:21:34.274: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:22636): Gtk-WARNING **: 13:21:34.274: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:22636): Gtk-WARNING **: 13:21:34.911: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:22636): Gtk-WARNING **: 13:21:34.911: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:22701): Gtk-WARNING **: 13:21:35.323: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22701): Gtk-WARNING **: 13:21:35.341: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22701): Gtk-WARNING **: 13:21:35.341: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1562412096228	Marionette	INFO	Listening on port 40321
+1562412096323	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:22765): Gtk-WARNING **: 13:21:36.600: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22765): Gtk-WARNING **: 13:21:36.619: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22765): Gtk-WARNING **: 13:21:36.619: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+
+(/usr/lib/firefox-esr/firefox-esr:22848): Gtk-WARNING **: 13:23:27.348: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:22848): Gtk-WARNING **: 13:23:27.363: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:22848): Gtk-WARNING **: 13:23:27.363: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1562413411173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nq6KpEuczkO8"
+*** You are running in headless mode.
+1562413412943	Marionette	INFO	Listening on port 41775
+1562413412986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1562413446100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gDHMEG14qUUr"
+*** You are running in headless mode.
+1562413447975	Marionette	INFO	Listening on port 39407
+1562413448037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.

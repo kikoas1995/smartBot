@@ -26,6 +26,7 @@ class TempAddrMail:
                     break
                 sleep(10)
 
+            
         str = elements[0].text
         self.driver.close()
         return str.partition(" ")[0]
