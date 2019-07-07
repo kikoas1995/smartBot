@@ -12,12 +12,12 @@ class driverManager(object):
         self.driver = None
         self.headless = headless
 
-    def run(self):
+    def run(self,):
+        options = Options()
+        options.headless = self.headless
+        # Point the path to the geckodriver bin in your system
+        execgeckopath = '/root/Utilities/webDrivers/geckodriver'
         if (self.engine == 'geckodriver'):
-            options = Options()
-            options.headless = False
-            # Point the path to the geckodriver bin in your system
-            execgeckopath = '/root/Utilities/webDrivers/geckodriver'
             self.driver = webdriver.Firefox(options=options, executable_path=execgeckopath)
         elif (self.engine == 'firefox-torproxy'):
             fp = webdriver.FirefoxProfile()
@@ -36,6 +36,9 @@ class driverManager(object):
             self.driver = webdriver.Firefox(options=options, executable_path=execgeckopath, firefox_profile=fp)
 
             self.driver.get("https://google.com")
+        #
+        # TODO: Add compatibility for more webdrivers
+        #
 
     def stop(self):
         self.driver.close()

@@ -1,34 +1,40 @@
 # -*- coding: utf-8 -*-
+from samba.dcerpc.smb_acl import user
 from selenium import webdriver
 import os
-from selenium.webdriver.common.keys import Keys
 from time import sleep
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait as wait
-from selenium.webdriver.support import expected_conditions as EC
-from abc import ABCMeta, abstractmethod
 import names
-from src.mailing import TemporaryInbox2
 from random import randrange,randint
 from random import choice
+from random import shuffle
 from string import ascii_lowercase, digits
-from src.db.cryptodb import *
-from Bot import Bot
-from tempmail import TempMail
-import re
+from VolatileInbox import VolatileMail
+from bot import Bot
 
 class Instagram(Bot):
 
+    def __init__(self, driver):
+        self.driver = driver
+        self.user = None
+        self.pwd = None
+        self.email = None
+        self.name = None
+        self.last_name = None
+
     def signup(self):
-        script_dir = os.path.dirname(__file__)
 
-        path = os.path.join(os.path.join(script_dir, os.pardir), '../libraries/geckodriver/geckodriver')
-        driver = webdriver.Firefox(executable_path=path)#firefox_profile=profile)
+        m = VolatileMail.TempAddrMail()
 
-        tm = TemporaryInbox2.TempAddrMail()
-        email = tm.getEmailAddr()
+        self.email = m.getEmailAddr()
+        self.name = names.get_first_name().lower()
+        self.last_name = names.get_last_name().lower()
 
-        reg_user = names.get_last_name().lower() + str(randint(50,150)) + names.get_first_name().lower()
+        username_list = [self.last_name, '_' , randint(80, 99)]
+        shuffle(username_list)
+
+        reg_user = self.name + self.
+
+
         if reg_user.__len__() > 12:
             reg_user = reg_user[:11]
 

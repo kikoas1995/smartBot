@@ -3,13 +3,14 @@ from selenium import webdriver
 import os
 from time import sleep
 from selenium.webdriver.firefox.options import Options
-from tbselenium.tbdriver import TorBrowserDriver
-
-
+import sys
+sys.path.append('../')
+import
 class TempAddrMail:
 
+    # Added functionality of https://www.getnada.com.
+    # It is a volatile email service that is not banned from most SSNN.
     def __init__(self):
-
         options = Options()
         options.headless = True
         path = '/root/Utilities/webDrivers/geckodriver'
@@ -19,7 +20,9 @@ class TempAddrMail:
 
 
     def getEmailAddr(self,):
-        element = self.driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div[1]/div[2]/div/div[1]/h1/span[2]")
+        mail_xpath = "/html/body/div/div[2]/div[2]/div[1]/div[2]/div/div[1]/h1/span[2]"
+
+        element = self.driver.find_element_by_xpath(mail_xpath)
         return element.text
 
     def verify(self, ):
@@ -36,8 +39,4 @@ class TempAddrMail:
 
 if __name__ == "__main__":
 
-    with TorBrowserDriver("/path/to/TorBrowserBundle/") as driver:
-        driver.get('https://check.torproject.org')
-
-    driver = TorBrowserDriver("", tbb_logfile_path='test.log', )
-    driver
+    x = 0
