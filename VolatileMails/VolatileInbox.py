@@ -3,6 +3,8 @@ from selenium import webdriver
 import os
 from time import sleep
 from selenium.webdriver.firefox.options import Options
+from tbselenium.tbdriver import TorBrowserDriver
+
 
 class TempAddrMail:
 
@@ -33,5 +35,9 @@ class TempAddrMail:
         return str.partition(" ")[0]
 
 if __name__ == "__main__":
-    driver = TempAddrMail()
-    print(driver.getEmailAddr())
+
+    with TorBrowserDriver("/path/to/TorBrowserBundle/") as driver:
+        driver.get('https://check.torproject.org')
+
+    driver = TorBrowserDriver("", tbb_logfile_path='test.log', )
+    driver
