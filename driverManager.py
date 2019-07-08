@@ -7,14 +7,13 @@ import subprocess
 
 class driverManager(object):
 
-    def __init__(self, driver='geckodriver', headless=False):
+    def __init__(self, driver='geckodriver'):
         self.engine = driver
         self.driver = None
-        self.headless = headless
 
-    def run(self,):
+    def run(self, headless=False):
         options = Options()
-        options.headless = self.headless
+        options.headless = headless
         # Point the path to the geckodriver bin in your system
         execgeckopath = '/root/Utilities/webDrivers/geckodriver'
         if (self.engine == 'geckodriver'):
@@ -35,7 +34,6 @@ class driverManager(object):
             execgeckopath = '/root/Utilities/webDrivers/geckodriver'
             self.driver = webdriver.Firefox(options=options, executable_path=execgeckopath, firefox_profile=fp)
 
-            self.driver.get("https://google.com")
         #
         # TODO: Add compatibility for more webdrivers
         #
@@ -47,7 +45,7 @@ class driverManager(object):
 
 if __name__ == "__main__":
 
-    d = driverManager(driver='firefox-torproxy', headless=False)
+    d = driverManager(driver='firefox-torproxy')
     subprocess.call(["service", "tor", "start"])
     d.run()
     d.driver.get('https://check.torproject.org/')

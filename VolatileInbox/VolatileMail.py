@@ -5,7 +5,6 @@ from time import sleep
 from selenium.webdriver.firefox.options import Options
 import sys
 sys.path.append('../')
-import
 class TempAddrMail:
 
     # Added functionality of https://www.getnada.com.

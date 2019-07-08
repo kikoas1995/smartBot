@@ -6,10 +6,13 @@ from time import sleep
 import names
 from random import randrange,randint
 from random import choice
+from random import uniform
 from random import shuffle
 from string import ascii_lowercase, digits
 from VolatileInbox import VolatileMail
 from bot import Bot
+from driverManager import driverManager
+import obfuscate
 
 class Instagram(Bot):
 
@@ -21,7 +24,7 @@ class Instagram(Bot):
         self.name = None
         self.last_name = None
 
-    def signup(self):
+    def signup(self, driver='firefox-torproxy'):
 
         m = VolatileMail.TempAddrMail()
 
@@ -32,34 +35,41 @@ class Instagram(Bot):
         username_list = [self.last_name, '_' , randint(80, 99)]
         shuffle(username_list)
 
-        reg_user = self.name + self.
+        stringlist= ''
+        for element in username_list:
+            stringlist += str(element)
 
+        self.user = self.name + stringlist
 
-        if reg_user.__len__() > 12:
-            reg_user = reg_user[:11]
+        # IG maximum username length
+        if self.user.__len__() > 12:
+            self.user = self.user[:11]
 
-        reg_pwd = ''.join(choice(ascii_lowercase + digits) for _ in range(10))
-        reg_name = names.get_full_name()
-        reg_mail = email
-        print ("Tu correo es: " + reg_mail)
+        self.pwd = obfuscate.rot47(self.user)
 
-        driver.get('https://www.instagram.com/accounts/emailsignup/')
-        sleep(5)
-        mail = driver.find_element_by_name('emailOrPhone')
-        name = driver.find_element_by_name('fullName')
-        user = driver.find_element_by_name('username')
-        pwd = driver.find_element_by_name('password')
-        button = driver.find_elements_by_tag_name("button")[1]
+        print ("User e-mail is: " + self.email)
 
-        sleep(randrange(1,3))
-        name.send_keys(reg_name)
-        sleep(randrange(1,3))
-        user.send_keys(reg_user)
-        sleep(randrange(1,3))
-        mail.send_keys(reg_mail)
-        sleep(randrange(1,3))
-        pwd.send_keys(reg_pwd)
-        sleep(randrange(1,3))
+        d = driverManager(driver)
+
+        d.run(headless=False)
+
+        d.driver.get('https://www.instagram.com/accounts/emailsignup/')
+        sleep(float(randint(3,5)) + uniform(0,1))
+        mail = d.driver.find_element_by_name('emailOrPhone')
+        name = d.driver.find_element_by_name('fullName')
+        user = d.driver.find_element_by_name('username')
+        pwd = d.driver.find_element_by_name('password')
+        button = d.driver.find_elements_by_tag_name("button")[1]
+
+        sleep(float(randint(2,3)) + uniform(0,1))
+        name.send_keys(self.name + ' ' + self.last_name)
+        sleep(float(randint(2,3)) + uniform(0,1))
+        user.send_keys(self.user)
+        sleep(float(randint(2,3)) + uniform(0,1))
+        mail.send_keys(self.email)
+        sleep(float(randint(2,3)) + uniform(0,1))
+        pwd.send_keys(self.pwd)
+        sleep(float(randint(2,3)) + uniform(0,1))
 
         len = 1
         while (len > 0):
@@ -179,4 +189,4 @@ if __name__ == "__main__":
 
     instagram = Instagram()
     instagram.signup()
-instagram.stalk("natgeo")
+    instagram.stalk("natgeo")
