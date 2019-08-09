@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/SNBots/ig.py" line="47" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/AccountBots/ig.py" line="48" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13ed3e8-5409-4853-8e07-b6e10d4b4e9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AccountBots/eldiario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountBots/elmundo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountBots/elpais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/cryptoDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humanImitate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNBots/ig.py" beforeDir="false" afterPath="$PROJECT_DIR$/SNBots/ig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SNBots/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountBots/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SNBots/ig.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountBots/ig.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" beforeDir="false" afterPath="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/driverManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/driverManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,45 +27,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bot.py">
+        <entry file="file://$PROJECT_DIR$/AccountBots/elpais.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
-                <element signature="e#24#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/driverManager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#24#54#0" expanded="true" />
+                <element signature="e#25#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SNBots/ig.py">
+        <entry file="file://$PROJECT_DIR$/AccountBots/eldiario.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            <state relative-caret-position="495">
+              <caret line="164" column="56" selection-start-line="164" selection-start-column="56" selection-end-line="164" selection-end-column="56" />
               <folding>
-                <element signature="e#24#61#0" expanded="true" />
+                <element signature="e#25#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +58,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>~</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -90,16 +82,25 @@
         <option value="$PROJECT_DIR$/bot.py" />
         <option value="$PROJECT_DIR$/Bots/ig.py" />
         <option value="$PROJECT_DIR$/VolatileMails/VolatileInbox.py" />
-        <option value="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" />
-        <option value="$PROJECT_DIR$/driverManager.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/SNBots/ig.py" />
+        <option value="$PROJECT_DIR$/kk.py" />
+        <option value="$PROJECT_DIR$/humanImitate.py" />
+        <option value="$PROJECT_DIR$/AccountBots/ig.py" />
+        <option value="$PROJECT_DIR$/db/cryptoDB.py" />
+        <option value="$PROJECT_DIR$/driverManager.py" />
+        <option value="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" />
+        <option value="$PROJECT_DIR$/AccountBots/elmundo.py" />
+        <option value="$PROJECT_DIR$/AccountBots/elpais.py" />
+        <option value="$PROJECT_DIR$/AccountBots/eldiario.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="960" />
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -119,7 +120,12 @@
             <path>
               <item name="smartBot" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartBot" type="462c0819:PsiDirectoryNode" />
-              <item name="SNBots" type="462c0819:PsiDirectoryNode" />
+              <item name="AccountBots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smartBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartBot" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="smartBot" type="b2602c69:ProjectViewProjectNode" />
@@ -137,7 +143,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -157,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.driverManager">
-    <configuration name="TempMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.eldiario">
+    <configuration name="cryptoDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="smartBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VolatileMails" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VolatileInbox/TempMail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/cryptoDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VolatileInbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="eldiario" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="smartBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VolatileMails" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AccountBots" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AccountBots/eldiario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +208,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="driverManager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="elmundo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="smartBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AccountBots" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AccountBots/elmundo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elpais" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="smartBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AccountBots" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AccountBots/elpais.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="humanImitate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="smartBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,7 +265,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/driverManager.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/humanImitate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,9 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.driverManager" />
-        <item itemvalue="Python.VolatileInbox" />
-        <item itemvalue="Python.TempMail" />
+        <item itemvalue="Python.eldiario" />
+        <item itemvalue="Python.elpais" />
+        <item itemvalue="Python.elmundo" />
+        <item itemvalue="Python.cryptoDB" />
+        <item itemvalue="Python.humanImitate" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +300,22 @@
       <workItem from="1562350973412" duration="950000" />
       <workItem from="1562402234805" duration="18812000" />
       <workItem from="1562535866434" duration="811000" />
-      <workItem from="1562621702058" duration="5614000" />
+      <workItem from="1562621702058" duration="7399000" />
+      <workItem from="1562784282953" duration="1266000" />
+      <workItem from="1563313211750" duration="5553000" />
+      <workItem from="1563398595784" duration="733000" />
+      <workItem from="1563829916719" duration="101000" />
+      <workItem from="1563830044173" duration="1142000" />
+      <workItem from="1563892500626" duration="7851000" />
+      <workItem from="1563912892172" duration="22000" />
+      <workItem from="1563912943762" duration="4166000" />
+      <workItem from="1564070138955" duration="11577000" />
+      <workItem from="1564088297966" duration="3284000" />
+      <workItem from="1564262314878" duration="6103000" />
+      <workItem from="1564594253803" duration="6886000" />
+      <workItem from="1564771371169" duration="1817000" />
+      <workItem from="1564851414600" duration="3194000" />
+      <workItem from="1564945215594" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="Added folder for Temp Inbox and Initial commit of the first SN bot">
       <created>1562405139822</created>
@@ -299,35 +366,41 @@
       <option name="project" value="LOCAL" />
       <updated>1562624393538</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Signup working">
+      <created>1562628478045</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562628478045</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28084000" />
+    <option name="totallyTimeSpent" value="84373000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1005" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12832801" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14483494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6366062" weight="0.30347735" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4967983" weight="0.3993135" />
+      <window_info anchor="bottom" x="0" y="513" width="1920" height="241" id="Run" order="2" sideWeight="0.628328" type="WINDOWED" weight="0.22310306" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48988286" weight="0.25141564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" visible="true" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5101172" side_tool="true" visible="true" weight="0.25141564" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" weight="0.3295325" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973376" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
@@ -339,12 +412,60 @@
     <MESSAGE value="Added folder for Temp Inbox and Initial commit of the first SN bot" />
     <MESSAGE value="Temporary inbox, first version" />
     <MESSAGE value="Coding IG" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding IG" />
+    <MESSAGE value="Signup working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Signup working" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/humanImitate.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/cryptoDB.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AccountBots/elpais.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/smartBot$humanImitate.coverage" NAME="humanImitate Coverage Results" MODIFIED="1563896941245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smartBot$ig.coverage" NAME="ig Coverage Results" MODIFIED="1563316599972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SNBots" />
+    <SUITE FILE_PATH="coverage/smartBot$elpais.coverage" NAME="elpais Coverage Results" MODIFIED="1564945251706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AccountBots" />
     <SUITE FILE_PATH="coverage/smartBot$TempMail.coverage" NAME="TempMail Coverage Results" MODIFIED="1562410184970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VolatileMails" />
+    <SUITE FILE_PATH="coverage/smartBot$test.coverage" NAME="test Coverage Results" MODIFIED="1563317786217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smartBot$cryptoDB.coverage" NAME="cryptoDB Coverage Results" MODIFIED="1564264017636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/smartBot$VolatileInbox.coverage" NAME="VolatileInbox Coverage Results" MODIFIED="1562438212447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VolatileMails" />
     <SUITE FILE_PATH="coverage/smartBot$driverManager.coverage" NAME="driverManager Coverage Results" MODIFIED="1562452817861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smartBot$elmundo.coverage" NAME="elmundo Coverage Results" MODIFIED="1564771079702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AccountBots" />
+    <SUITE FILE_PATH="coverage/smartBot$eldiario.coverage" NAME="eldiario Coverage Results" MODIFIED="1564945353061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AccountBots" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&lt;type 'list'&gt;: []</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions">
@@ -359,13 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="240" column="42" selection-start-line="240" selection-start-column="42" selection-end-line="240" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -400,33 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/driverManager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#24#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247972723/time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -434,12 +521,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SNBots/ig.py">
+    <entry file="file:///usr/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://$PROJECT_DIR$/kk.py" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/guerrillamail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        <state relative-caret-position="219">
+          <caret line="221" column="19" selection-start-line="221" selection-start-column="19" selection-end-line="221" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/humanImitate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/cryptoDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountBots/ig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="149" column="30" selection-start-line="149" selection-start-column="30" selection-end-line="149" selection-end-column="85" />
           <folding>
             <element signature="e#24#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1112">
+          <caret line="421" column="16" lean-forward="true" selection-start-line="421" selection-start-column="16" selection-end-line="421" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driverManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountBots/elmundo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="121" selection-end-line="153" />
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountBots/elpais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountBots/eldiario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="164" column="56" selection-start-line="164" selection-start-column="56" selection-end-line="164" selection-end-column="56" />
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
           </folding>
         </state>
       </provider>

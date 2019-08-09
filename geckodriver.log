@@ -159,3 +159,124 @@ console.log: Accessibility service init or shutdown observer does not exist.
 
 (/usr/lib/firefox-esr/firefox-esr:1921): Gtk-WARNING **: 00:40:22.119: Theme parsing error: gtk.css:11641:2: '/*' in comment block
 console.log: Accessibility service init or shutdown observer does not exist.
+1563895971108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.43RguxT8sEPz"
+
+(firefox-esr:10766): Gtk-WARNING **: 17:32:51.156: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:10766): Gtk-WARNING **: 17:32:51.171: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:10766): Gtk-WARNING **: 17:32:51.171: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:10766): Gtk-WARNING **: 17:32:51.793: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10766): Gtk-WARNING **: 17:32:51.793: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:10826): Gtk-WARNING **: 17:32:52.177: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:10826): Gtk-WARNING **: 17:32:52.195: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10826): Gtk-WARNING **: 17:32:52.195: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1563895973112	Marionette	INFO	Listening on port 46735
+1563895973119	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:10894): Gtk-WARNING **: 17:32:53.630: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:10894): Gtk-WARNING **: 17:32:53.651: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:10894): Gtk-WARNING **: 17:32:53.651: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+[Child 10826, Chrome_ChildThread] WARNING: pipe error (20): Conexión reinicializada por la máquina remota: file /build/firefox-esr-XwMS8D/firefox-esr-60.7.2esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1563896496890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.040cl83xcsSJ"
+
+(firefox-esr:11090): Gtk-WARNING **: 17:41:36.938: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:11090): Gtk-WARNING **: 17:41:36.953: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:11090): Gtk-WARNING **: 17:41:36.953: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:11090): Gtk-WARNING **: 17:41:37.504: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:11090): Gtk-WARNING **: 17:41:37.504: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:11150): Gtk-WARNING **: 17:41:37.834: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11150): Gtk-WARNING **: 17:41:37.849: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11150): Gtk-WARNING **: 17:41:37.849: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1563896498621	Marionette	INFO	Listening on port 43541
+1563896498701	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:11218): Gtk-WARNING **: 17:41:38.891: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11218): Gtk-WARNING **: 17:41:38.915: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11218): Gtk-WARNING **: 17:41:38.915: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+console.log: Accessibility service init or shutdown observer does not exist.
+1563896739441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CzwoWzxyzRTt"
+
+(firefox-esr:11351): Gtk-WARNING **: 17:45:39.483: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:11351): Gtk-WARNING **: 17:45:39.497: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:11351): Gtk-WARNING **: 17:45:39.497: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:11351): Gtk-WARNING **: 17:45:40.041: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:11351): Gtk-WARNING **: 17:45:40.041: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:11407): Gtk-WARNING **: 17:45:40.374: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11407): Gtk-WARNING **: 17:45:40.390: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11407): Gtk-WARNING **: 17:45:40.390: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1563896741258	Marionette	INFO	Listening on port 37981
+1563896741351	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:11477): Gtk-WARNING **: 17:45:41.698: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11477): Gtk-WARNING **: 17:45:41.725: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11477): Gtk-WARNING **: 17:45:41.725: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11556): Gtk-WARNING **: 17:46:50.002: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11556): Gtk-WARNING **: 17:46:50.014: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11556): Gtk-WARNING **: 17:46:50.014: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+console.log: Accessibility service init or shutdown observer does not exist.
+1563896942516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CII5b8BkJMaN"
+
+(firefox-esr:11644): Gtk-WARNING **: 17:49:02.557: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:11644): Gtk-WARNING **: 17:49:02.570: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:11644): Gtk-WARNING **: 17:49:02.570: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:11644): Gtk-WARNING **: 17:49:03.298: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:11644): Gtk-WARNING **: 17:49:03.298: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:11700): Gtk-WARNING **: 17:49:03.633: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11700): Gtk-WARNING **: 17:49:03.648: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11700): Gtk-WARNING **: 17:49:03.648: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1563896944392	Marionette	INFO	Listening on port 41017
+1563896944426	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:11790): Gtk-WARNING **: 17:49:04.921: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11790): Gtk-WARNING **: 17:49:04.940: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11790): Gtk-WARNING **: 17:49:04.940: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11833): Gtk-WARNING **: 17:49:30.870: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:11833): Gtk-WARNING **: 17:49:30.884: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:11833): Gtk-WARNING **: 17:49:30.884: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+Sandbox: seccomp sandbox violation: pid 11790, tid 11889, syscall 203, args 11889 128 140633751232000 140633751235024 1 140634325254336.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+[Child 11790, Chrome_ChildThread] WARNING: pipe error (20): Conexión reinicializada por la máquina remota: file /build/firefox-esr-XwMS8D/firefox-esr-60.7.2esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342

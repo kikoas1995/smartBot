@@ -14,6 +14,7 @@ from bot import Bot
 from driverManager import driverManager
 import obfuscate
 
+
 class Instagram(Bot):
 
     def __init__(self, driver):
@@ -24,7 +25,7 @@ class Instagram(Bot):
         self.name = None
         self.last_name = None
 
-    def signup(self, driver='firefox-torproxy'):
+    def signup(self):
 
         m = VolatileMail.TempAddrMail()
 
@@ -49,7 +50,7 @@ class Instagram(Bot):
 
         print ("User e-mail is: " + self.email)
 
-        d = driverManager(driver)
+        d = driverManager(self.driver)
 
         d.run(headless=False)
 
@@ -72,20 +73,30 @@ class Instagram(Bot):
         sleep(float(randint(2,3)) + uniform(0,1))
 
         len = 1
-        while (len > 0):
+        len2 = 1
+        while (len > 0 or len2 > 0):
             try:
                 button.click()
                 sleep(randrange(1,5))
-                e = driver.find_elements_by_xpath("//*[contains(text(), 'Sorry, ')]")
+                e = d.driver.find_elements_by_xpath("//*[contains(text(), 'Sorry, ')]")
+                e2 = d.driver.find_elements_by_xpath("//*[contains(text(), 'Another account')]")
+                e3 = d.driver.find_elements_by_xpath("//*[contains(text(), 'try another, ')]")
                 len = e.__len__()
-                if (len > 0):
+                len2 = e2.__len__()
+                len3 = e3.__len__()
+                if (len > 0 or len3 > 0):
                     user.clear()
                     sleep(randrange(1, 3))
-                    user.send_keys(reg_user + ''.join(choice(ascii_lowercase + digits) for _ in range(3)))
+                    user.send_keys(self.user + ''.join(choice(ascii_lowercase + digits) for _ in range(3)))
+                elif (len2 > 0):
+                    mail.clear()
+                    m = VolatileMail.TempAddrMail()
+                    self.email = m.getEmailAddr()
+                    mail.send_keys(self.email)
             except:
                 break
-        sleep(2)
-        elements = driver.find_elements_by_xpath("//*[contains(text(), 'Skip')]")
+            sleep(2)
+        elements = d.driver.find_elements_by_xpath("//*[contains(text(), 'Skip')]")
 
         for element in elements:
             try:
@@ -93,38 +104,8 @@ class Instagram(Bot):
                 sleep(randrange(3,6))
             except:
                 continue
-
-        insert_user("instagram", reg_user, reg_pwd, reg_mail)
-        driver.close()
-
         return
 
-    def login(self):
-        script_dir = os.path.dirname(__file__)
-        path = os.path.join(os.path.join(script_dir, os.pardir), '../libraries/geckodriver/geckodriver')
-        driver = webdriver.Firefox(executable_path=path)
-        random_user = get_random_user("instagram")
-        driver.get('https://www.instagram.com/accounts/login/?hl=es')
-        sleep(3)
-        user = driver.find_element_by_name('username')
-        pwd = driver.find_element_by_name('password')
-
-        reg_user = random_user[3]
-        reg_pwd = random_user[2]
-
-        user.send_keys(reg_user)
-        sleep(randrange(1, 3))
-        pwd.send_keys(reg_pwd)
-        sleep(randrange(1, 3))
-
-        elements = driver.find_elements_by_xpath("//*[contains(text(), 'Iniciar ')]")
-
-        for ele in elements:
-            if ele.is_displayed():
-                ele.click()
-                sleep(randrange(3,5))
-
-        return driver
 
     def stalk(self, user):
 
@@ -169,24 +150,10 @@ class Instagram(Bot):
             elements = driver.find_elements_by_xpath("//*[contains(text(), 'Like')]")
             sleep(randrange(1, 3))
 
-    def getConfirmation(self, email):
-
-        tm = TempMail()
-        # print email
-        while (1):
-            box = tm.get_mailbox(email)  # list of emails
-            if type(box) is dict:
-                # print "Waiting for mails"
-                sleep(10)
-            elif type(box) is list:
-                # print box[0]['mail_text']
-                m = re.findall('\n\d+\n', box[0]['mail_text'])
-                return m[0][1:-1]
-
 
 
 if __name__ == "__main__":
 
-    instagram = Instagram()
+    instagram = Instagram('geckodriver')
     instagram.signup()
     instagram.stalk("natgeo")
