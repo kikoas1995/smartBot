@@ -42,6 +42,7 @@ class TempAddrMail:
                             elements = self.driver.find_elements_by_xpath("//a[contains(text(), 'este')]")
                             if (elements.__len__() > 0):
                                 href = elements[0].get_attribute("href")
+                                self.driver.close()
                                 return href
 
         elif (page == 'elmundo'):
@@ -56,6 +57,7 @@ class TempAddrMail:
                         elements = self.driver.find_elements_by_xpath("//a[contains(text(), 'seguro.elmundo')]")
                         if (elements.__len__() > 0):
                             href = elements[0].get_attribute("href")
+                            self.driver.close()
                             return href
 
 

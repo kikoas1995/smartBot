@@ -93,14 +93,14 @@ class ElDiario(Bot):
         # VERIFY
 
         href = m.verify(page='eldiario')
-        print (colored("[+]", "green") + (" Confirmation link is: " + href))
+        print (colored("[+]", "green") + (" Account confirmation link is: " + href))
         d.driver.get(href)
 
-        print (colored("[+]", "green") + (" Cuenta confirmada. :). Insertando usuario en la base de datos..."))
+        print (colored("[+]", "green") + (" Account confirmed. :). Putting the new user into DB..."))
 
         cryptoDB.insert_user("eldiario", self.user, self.pwd, self.email)
 
-        print (colored("[+]", "green") + (" Usuario insertado en la base de datos con exito"))
+        print (colored("[+]", "green") + (" User added successfully into DB"))
 
         d.stop()
 
@@ -117,7 +117,7 @@ class ElDiario(Bot):
         pw = d.driver.find_element_by_name('password')
         button = d.driver.find_element_by_id("btnSubmit")
 
-        print (colored("[+]", "green") + (" Seleccionando un usuario aleatorio de la base de datos para logarse..."))
+        print (colored("[+]", "green") + (" Selecting a random user from the DB to log in..."))
 
         user = cryptoDB.get_random_user("eldiario")
 
@@ -132,7 +132,7 @@ class ElDiario(Bot):
 
         sleep(1)
 
-        print (colored("[+]", "green") + (" Usuario logueado correctamente."))
+        print (colored("[+]", "green") + (" User logged successfully."))
 
         return d
 
@@ -140,17 +140,19 @@ class ElDiario(Bot):
 
         d.driver.get(url)
 
-        print (colored("[+]", "green") + (" Posteando comentario en la noticia..."))
+        print (colored("[+]", "green") + (" Posting the comment in the newspaper..."))
 
         text = d.driver.find_element_by_id('edi_comment-text')
         button = d.driver.find_element_by_id('edi-comment-button')
         text.send_keys(comment)
-        cookies = d.driver.find_element_by_xpath("/html/body/div[12]/div[1]/div/div[2]/div/button")
+        cookies = d.driver.find_elements_by_xpath("/html/body/div[11]/div[1]/div[1]/div/div/div[2]/div[2]/div[1]/button")
+        cookies2 = d.driver.find_elements_by_xpath("//*[text()='Aceptar']")
+        if (cookies.__len__() > 0):
+            cookies[0].click()
 
-        cookies.click()
         button.click()
 
-        print (colored("[+]", "green") + (" Comentario posteado con éxito."))
+        print (colored("[+]", "green") + (" Comment posted successfully."))
 
 
 if __name__ == "__main__":

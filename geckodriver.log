@@ -280,3 +280,763 @@ JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 
 JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
 JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
 [Child 11790, Chrome_ChildThread] WARNING: pipe error (20): Conexión reinicializada por la máquina remota: file /build/firefox-esr-XwMS8D/firefox-esr-60.7.2esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1565518637499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AfU3yibjNhU4"
+
+(firefox-esr:13458): Gtk-WARNING **: 12:17:17.547: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:13458): Gtk-WARNING **: 12:17:17.560: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:13458): Gtk-WARNING **: 12:17:17.560: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:13458): Gtk-WARNING **: 12:17:18.544: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13458): Gtk-WARNING **: 12:17:18.544: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:13515): Gtk-WARNING **: 12:17:18.942: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13515): Gtk-WARNING **: 12:17:18.958: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13515): Gtk-WARNING **: 12:17:18.958: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565518639990	Marionette	INFO	Listening on port 40483
+1565518640012	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:13586): Gtk-WARNING **: 12:17:20.216: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13586): Gtk-WARNING **: 12:17:20.233: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13586): Gtk-WARNING **: 12:17:20.233: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565518645344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HVmwqhYUAnjQ"
+
+(firefox-esr:13632): Gtk-WARNING **: 12:17:25.389: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:13632): Gtk-WARNING **: 12:17:25.401: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:13632): Gtk-WARNING **: 12:17:25.402: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:13632): Gtk-WARNING **: 12:17:26.057: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13632): Gtk-WARNING **: 12:17:26.057: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:13691): Gtk-WARNING **: 12:17:26.440: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13691): Gtk-WARNING **: 12:17:26.455: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13691): Gtk-WARNING **: 12:17:26.455: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565518647268	Marionette	INFO	Listening on port 39121
+1565518647359	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:13759): Gtk-WARNING **: 12:17:27.740: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:13759): Gtk-WARNING **: 12:17:27.757: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:13759): Gtk-WARNING **: 12:17:27.757: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 13691, tid 13796, syscall 203, args 13796 128 140111901351424 140111901354448 1 140112463659200.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 13515, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565519348995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZQJOvaBEJrQx"
+
+(firefox-esr:13989): Gtk-WARNING **: 12:29:09.036: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:13989): Gtk-WARNING **: 12:29:09.049: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:13989): Gtk-WARNING **: 12:29:09.049: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:13989): Gtk-WARNING **: 12:29:09.603: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13989): Gtk-WARNING **: 12:29:09.603: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:14048): Gtk-WARNING **: 12:29:09.923: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14048): Gtk-WARNING **: 12:29:09.937: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14048): Gtk-WARNING **: 12:29:09.937: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565519350758	Marionette	INFO	Listening on port 46205
+1565519350821	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14114): Gtk-WARNING **: 12:29:11.147: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14114): Gtk-WARNING **: 12:29:11.163: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14114): Gtk-WARNING **: 12:29:11.163: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565519355870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Dtl4VNWVhofm"
+
+(firefox-esr:14159): Gtk-WARNING **: 12:29:15.915: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:14159): Gtk-WARNING **: 12:29:15.929: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:14159): Gtk-WARNING **: 12:29:15.929: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:14159): Gtk-WARNING **: 12:29:16.882: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14159): Gtk-WARNING **: 12:29:16.882: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:14217): Gtk-WARNING **: 12:29:17.222: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14217): Gtk-WARNING **: 12:29:17.236: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14217): Gtk-WARNING **: 12:29:17.236: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565519357967	Marionette	INFO	Listening on port 39385
+1565519357988	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14286): Gtk-WARNING **: 12:29:18.406: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14286): Gtk-WARNING **: 12:29:18.422: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14286): Gtk-WARNING **: 12:29:18.422: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565519395692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.70HLZtp9b2hD"
+
+(firefox-esr:14601): Gtk-WARNING **: 12:29:55.748: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:14601): Gtk-WARNING **: 12:29:55.766: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:14601): Gtk-WARNING **: 12:29:55.766: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:14601): Gtk-WARNING **: 12:29:56.925: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14601): Gtk-WARNING **: 12:29:56.926: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:14687): Gtk-WARNING **: 12:29:57.465: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14687): Gtk-WARNING **: 12:29:57.482: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14687): Gtk-WARNING **: 12:29:57.482: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565519398633	Marionette	INFO	Listening on port 46755
+1565519398729	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14766): Gtk-WARNING **: 12:29:59.319: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14766): Gtk-WARNING **: 12:29:59.336: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14766): Gtk-WARNING **: 12:29:59.336: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565519404665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dtIPomT17MQ4"
+
+(firefox-esr:14885): Gtk-WARNING **: 12:30:04.720: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:14885): Gtk-WARNING **: 12:30:04.738: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:14885): Gtk-WARNING **: 12:30:04.738: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:14885): Gtk-WARNING **: 12:30:05.545: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14885): Gtk-WARNING **: 12:30:05.545: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:14963): Gtk-WARNING **: 12:30:06.211: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14963): Gtk-WARNING **: 12:30:06.237: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14963): Gtk-WARNING **: 12:30:06.238: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565519407374	Marionette	INFO	Listening on port 38657
+1565519407495	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:15060): Gtk-WARNING **: 12:30:08.005: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:15060): Gtk-WARNING **: 12:30:08.036: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:15060): Gtk-WARNING **: 12:30:08.036: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 14963, tid 15335, syscall 203, args 15335 128 139843666173440 139843666176464 1 139844228481216.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565519449850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hn57RQQa8A9b"
+*** You are running in headless mode.
+1565519452205	Marionette	INFO	Listening on port 39167
+1565519452261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565519458377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OMlXPBpPcuO0"
+*** You are running in headless mode.
+1565519460882	Marionette	INFO	Listening on port 39991
+1565519460898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565536825289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RZql1zno3MyU"
+
+(firefox-esr:18373): Gtk-WARNING **: 17:20:25.362: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:18373): Gtk-WARNING **: 17:20:25.379: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:18373): Gtk-WARNING **: 17:20:25.379: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:18373): Gtk-WARNING **: 17:20:26.391: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18373): Gtk-WARNING **: 17:20:26.392: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:18456): Gtk-WARNING **: 17:20:26.920: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18456): Gtk-WARNING **: 17:20:26.969: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18456): Gtk-WARNING **: 17:20:26.969: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18525): Gtk-WARNING **: 17:20:27.946: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18525): Gtk-WARNING **: 17:20:27.986: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18525): Gtk-WARNING **: 17:20:27.986: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565536828240	Marionette	INFO	Listening on port 33549
+1565536828315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565536886081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5NWdvCBeIVtU"
+*** You are running in headless mode.
+1565536888761	Marionette	INFO	Listening on port 41703
+1565536888802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+[Child 19463, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1565563022577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6LjTI1m336GG"
+*** You are running in headless mode.
+1565563025323	Marionette	INFO	Listening on port 45365
+1565563025423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565563177037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DxiXDi0csc5I"
+
+(firefox-esr:7975): Gtk-WARNING **: 00:39:37.081: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:7975): Gtk-WARNING **: 00:39:37.095: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:7975): Gtk-WARNING **: 00:39:37.095: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:7975): Gtk-WARNING **: 00:39:37.496: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:7975): Gtk-WARNING **: 00:39:37.496: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:8035): Gtk-WARNING **: 00:39:37.858: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:8035): Gtk-WARNING **: 00:39:37.874: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:8035): Gtk-WARNING **: 00:39:37.874: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565563178719	Marionette	INFO	Listening on port 44741
+1565563178748	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:8098): Gtk-WARNING **: 00:39:39.142: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:8098): Gtk-WARNING **: 00:39:39.159: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:8098): Gtk-WARNING **: 00:39:39.159: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 8035, tid 8140, syscall 203, args 8140 128 139764471422464 139764471425488 1 139765024293056.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565563343043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XAvpKXizXFOF"
+*** You are running in headless mode.
+1565563345893	Marionette	INFO	Listening on port 44873
+1565563345967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript error: https://cstatic.weborama.fr/js/advertiserv2/adperf_core_1.0.0_scrambled.js, line 9: TypeError: w$ is null
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565563721405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8rIWNcMB5yoH"
+*** You are running in headless mode.
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+1565563723232	Marionette	INFO	Listening on port 41091
+1565563723321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1565563791961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rKyUH9IZbloJ"
+*** You are running in headless mode.
+1565563794530	Marionette	INFO	Listening on port 37711
+1565563794583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.0639d67d95b7680840758b6833f06d87.html?origin=https%3A%2F%2Fwww.eldiario.es, line 12: Error: Network error.
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565564200284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VoVUsQQKOQwc"
+
+(firefox-esr:13958): Gtk-WARNING **: 00:56:40.331: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:13958): Gtk-WARNING **: 00:56:40.347: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:13958): Gtk-WARNING **: 00:56:40.347: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:13958): Gtk-WARNING **: 00:56:40.963: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13958): Gtk-WARNING **: 00:56:40.963: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:14016): Gtk-WARNING **: 00:56:41.361: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14016): Gtk-WARNING **: 00:56:41.378: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14016): Gtk-WARNING **: 00:56:41.378: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565564202283	Marionette	INFO	Listening on port 40365
+1565564202298	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:14081): Gtk-WARNING **: 00:56:42.637: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:14081): Gtk-WARNING **: 00:56:42.656: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:14081): Gtk-WARNING **: 00:56:42.656: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 14016, tid 14130, syscall 203, args 14130 128 140705346997760 140705347000784 1 140705874837696.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.log: Accessibility service init or shutdown observer does not exist.
+1565564330834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DYk556TDtMZ6"
+*** You are running in headless mode.
+1565564333581	Marionette	INFO	Listening on port 41019
+1565564333647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565564458264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xwrWLwqgfT1a"
+*** You are running in headless mode.
+1565564461120	Marionette	INFO	Listening on port 43933
+1565564461206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565564602844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oyqR31QYkpHe"
+
+(firefox-esr:18850): Gtk-WARNING **: 01:03:22.945: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:18850): Gtk-WARNING **: 01:03:22.976: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:18850): Gtk-WARNING **: 01:03:22.976: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:18850): Gtk-WARNING **: 01:03:23.892: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18850): Gtk-WARNING **: 01:03:23.892: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:18921): Gtk-WARNING **: 01:03:24.658: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18921): Gtk-WARNING **: 01:03:24.688: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18921): Gtk-WARNING **: 01:03:24.688: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18992): Gtk-WARNING **: 01:03:25.740: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:18992): Gtk-WARNING **: 01:03:25.778: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:18992): Gtk-WARNING **: 01:03:25.778: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565564606305	Marionette	INFO	Listening on port 35873
+1565564606393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 18921, tid 19180, syscall 203, args 19180 128 139848303242752 139848303245776 1 139848648229056.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565564701965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WNWI5l2cTdlw"
+
+(firefox-esr:19617): Gtk-WARNING **: 01:05:02.014: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:19617): Gtk-WARNING **: 01:05:02.029: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:19617): Gtk-WARNING **: 01:05:02.029: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:19617): Gtk-WARNING **: 01:05:02.653: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19617): Gtk-WARNING **: 01:05:02.653: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:19674): Gtk-WARNING **: 01:05:03.020: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:19674): Gtk-WARNING **: 01:05:03.041: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:19674): Gtk-WARNING **: 01:05:03.041: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565564704086	Marionette	INFO	Listening on port 33709
+1565564704193	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:19740): Gtk-WARNING **: 01:05:04.425: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:19740): Gtk-WARNING **: 01:05:04.449: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:19740): Gtk-WARNING **: 01:05:04.449: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 19674, tid 19780, syscall 203, args 19780 128 139705278258688 139705278261712 1 139705856295104.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+
+(/usr/lib/firefox-esr/firefox-esr:19884): Gtk-WARNING **: 01:06:43.556: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:19884): Gtk-WARNING **: 01:06:43.585: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:19884): Gtk-WARNING **: 01:06:43.585: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript warning: https://cdn.softwaretestinghelp.com/wp-content/cache/min/1/wp-content/plugins/mtouch-quiz/script-fed146487729a2bb47e8d6c4ad0ea3a4.js, line 1: unreachable code after return statement
+[Child 19740, Chrome_ChildThread] WARNING: pipe error (23): Conexión reinicializada por la máquina remota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Child 19740, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1565564889408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MdoEGfFLs1sl"
+
+(firefox-esr:19982): Gtk-WARNING **: 01:08:09.456: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:19982): Gtk-WARNING **: 01:08:09.469: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:19982): Gtk-WARNING **: 01:08:09.470: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:19982): Gtk-WARNING **: 01:08:10.101: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19982): Gtk-WARNING **: 01:08:10.101: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:20041): Gtk-WARNING **: 01:08:10.500: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20041): Gtk-WARNING **: 01:08:10.517: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20041): Gtk-WARNING **: 01:08:10.517: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565564891438	Marionette	INFO	Listening on port 44565
+1565564891536	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:20105): Gtk-WARNING **: 01:08:11.861: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20105): Gtk-WARNING **: 01:08:11.880: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20105): Gtk-WARNING **: 01:08:11.880: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 20041, tid 20144, syscall 203, args 20144 128 139643093507584 139643093510608 1 139643663155392.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 20041, MediaPlayback #4] WARNING: Decoder=7f012f15f6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20041, MediaPlayback #2] WARNING: Decoder=7f012f15f6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20041, MediaPlayback #1] WARNING: Decoder=7f012f15f6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20041, MediaPlayback #2] WARNING: Decoder=7f012f15f4c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20041, MediaPlayback #2] WARNING: Decoder=7f012f15f6a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+[Child 20041, MediaPlayback #4] WARNING: Decoder=7f012f15f4c0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3118
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1565564971218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VMTry87BkjCj"
+
+(firefox-esr:20501): Gtk-WARNING **: 01:09:31.301: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:20501): Gtk-WARNING **: 01:09:31.339: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:20501): Gtk-WARNING **: 01:09:31.339: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:20501): Gtk-WARNING **: 01:09:32.405: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20501): Gtk-WARNING **: 01:09:32.405: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:20581): Gtk-WARNING **: 01:09:33.080: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20581): Gtk-WARNING **: 01:09:33.109: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20581): Gtk-WARNING **: 01:09:33.109: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20647): Gtk-WARNING **: 01:09:34.147: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:20647): Gtk-WARNING **: 01:09:34.167: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:20647): Gtk-WARNING **: 01:09:34.167: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565564974633	Marionette	INFO	Listening on port 36159
+1565564974661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+Sandbox: seccomp sandbox violation: pid 20581, tid 20874, syscall 203, args 20874 128 139760219446784 139760219449808 1 139760779657408.
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565565028997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ruw3z49YKj9T"
+*** You are running in headless mode.
+1565565031688	Marionette	INFO	Listening on port 46437
+1565565031720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://usuarios.eldiario.es/scripts/vendor.b9f78826.js, line 18: TypeError: angular.module(...).provider(...).filter(...).directive(...) is not a function
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/EDIDiario/js/lib/modernizr-2.5.3-respond-1.1.0.min.js?hash=80ad14e07934fd225e2a9682a711e6f9, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+JavaScript warning: https://www.eldiario.es/static/BBTCore/js/bbt.js?hash=c782291ee0a38ed13bda5e3e5bcca098, line 290: unreachable code after return statement
+1565565607915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6NOSkpQNvc4E"
+
+(firefox-esr:24525): Gtk-WARNING **: 01:20:08.022: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:24525): Gtk-WARNING **: 01:20:08.067: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:24525): Gtk-WARNING **: 01:20:08.067: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:24525): Gtk-WARNING **: 01:20:09.023: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:24525): Gtk-WARNING **: 01:20:09.023: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:24598): Gtk-WARNING **: 01:20:09.750: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24598): Gtk-WARNING **: 01:20:09.782: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24598): Gtk-WARNING **: 01:20:09.782: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24668): Gtk-WARNING **: 01:20:10.789: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24668): Gtk-WARNING **: 01:20:10.824: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24668): Gtk-WARNING **: 01:20:10.825: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565565611354	Marionette	INFO	Listening on port 36179
+1565565611445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565565617927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.36rHLQdqQjz8"
+
+(firefox-esr:24810): Gtk-WARNING **: 01:20:18.030: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:24810): Gtk-WARNING **: 01:20:18.057: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:24810): Gtk-WARNING **: 01:20:18.057: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:24810): Gtk-WARNING **: 01:20:19.127: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:24810): Gtk-WARNING **: 01:20:19.127: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:24884): Gtk-WARNING **: 01:20:19.915: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24884): Gtk-WARNING **: 01:20:19.942: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24884): Gtk-WARNING **: 01:20:19.942: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24958): Gtk-WARNING **: 01:20:21.050: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:24958): Gtk-WARNING **: 01:20:21.090: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:24958): Gtk-WARNING **: 01:20:21.090: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1565565621544	Marionette	INFO	Listening on port 46035
+1565565621652	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 24598, Chrome_ChildThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.

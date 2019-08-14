@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13ed3e8-5409-4853-8e07-b6e10d4b4e9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AccountBots/eldiario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AccountBots/elmundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AccountBots/elpais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/cryptoDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/humanImitate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNBots/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountBots/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNBots/ig.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountBots/ig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccountBots/eldiario.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountBots/eldiario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" beforeDir="false" afterPath="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driverManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/driverManager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AccountBots/elpais.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="272">
+              <caret line="138" column="67" selection-start-line="138" selection-start-column="64" selection-end-line="138" selection-end-column="67" />
               <folding>
                 <element signature="e#25#47#0" expanded="true" />
               </folding>
@@ -41,10 +34,70 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AccountBots/eldiario.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="164" column="56" selection-start-line="164" selection-start-column="56" selection-end-line="164" selection-end-column="56" />
+            <state relative-caret-position="467">
+              <caret line="161" column="37" lean-forward="true" selection-start-line="161" selection-start-column="37" selection-end-line="161" selection-end-column="37" />
               <folding>
                 <element signature="e#25#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/driverManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#24#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AccountBots/elmundo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="76" column="76" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="76" />
+              <folding>
+                <element signature="e#25#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AccountBots/ig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="129" column="79" lean-forward="true" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="79" />
+              <folding>
+                <element signature="e#24#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +115,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>~</find>
+      <find>contai</find>
+      <find>contains</find>
+      <find>cont</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,19 +144,19 @@
         <option value="$PROJECT_DIR$/humanImitate.py" />
         <option value="$PROJECT_DIR$/AccountBots/ig.py" />
         <option value="$PROJECT_DIR$/db/cryptoDB.py" />
-        <option value="$PROJECT_DIR$/driverManager.py" />
-        <option value="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" />
         <option value="$PROJECT_DIR$/AccountBots/elmundo.py" />
         <option value="$PROJECT_DIR$/AccountBots/elpais.py" />
+        <option value="$PROJECT_DIR$/VolatileInbox/VolatileMail.py" />
+        <option value="$PROJECT_DIR$/cmd.py" />
+        <option value="$PROJECT_DIR$/driverManager.py" />
         <option value="$PROJECT_DIR$/AccountBots/eldiario.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
     <option name="y" value="27" />
-    <option name="width" value="960" />
-    <option name="height" value="1005" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +193,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +219,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.eldiario">
+  <component name="RunManager" selected="Python.cmd">
+    <configuration name="cmd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="smartBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cmd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cryptoDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="smartBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,35 +330,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="humanImitate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="smartBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/humanImitate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cmd" />
         <item itemvalue="Python.eldiario" />
         <item itemvalue="Python.elpais" />
         <item itemvalue="Python.elmundo" />
         <item itemvalue="Python.cryptoDB" />
-        <item itemvalue="Python.humanImitate" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +372,8 @@
       <workItem from="1564771371169" duration="1817000" />
       <workItem from="1564851414600" duration="3194000" />
       <workItem from="1564945215594" duration="809000" />
+      <workItem from="1565350124294" duration="11779000" />
+      <workItem from="1565562927088" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="Added folder for Temp Inbox and Initial commit of the first SN bot">
       <created>1562405139822</created>
@@ -377,26 +435,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84373000" />
+    <option name="totallyTimeSpent" value="99234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1005" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14483494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14802982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="0" y="513" width="1920" height="241" id="Run" order="2" sideWeight="0.628328" type="WINDOWED" weight="0.22310306" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48988286" weight="0.25141564" />
+      <window_info anchor="bottom" x="0" y="61" width="990" height="971" id="Run" order="2" sideWeight="0.62673056" type="WINDOWED" weight="0.22310306" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4877529" weight="0.25141564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5101172" side_tool="true" visible="true" weight="0.25141564" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5122471" side_tool="true" visible="true" weight="0.25141564" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840257" weight="0.32842582" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -438,6 +496,11 @@
           <line>87</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AccountBots/eldiario.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -446,6 +509,7 @@
     <SUITE FILE_PATH="coverage/smartBot$ig.coverage" NAME="ig Coverage Results" MODIFIED="1563316599972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SNBots" />
     <SUITE FILE_PATH="coverage/smartBot$elpais.coverage" NAME="elpais Coverage Results" MODIFIED="1564945251706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AccountBots" />
     <SUITE FILE_PATH="coverage/smartBot$TempMail.coverage" NAME="TempMail Coverage Results" MODIFIED="1562410184970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VolatileMails" />
+    <SUITE FILE_PATH="coverage/smartBot$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1565565589969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/smartBot$test.coverage" NAME="test Coverage Results" MODIFIED="1563317786217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/smartBot$cryptoDB.coverage" NAME="cryptoDB Coverage Results" MODIFIED="1564264017636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
     <SUITE FILE_PATH="coverage/smartBot$VolatileInbox.coverage" NAME="VolatileInbox Coverage Results" MODIFIED="1562438212447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VolatileMails" />
@@ -555,16 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountBots/ig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="149" column="30" selection-start-line="149" selection-start-column="30" selection-end-line="149" selection-end-column="85" />
-          <folding>
-            <element signature="e#24#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1112">
@@ -574,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VolatileInbox/VolatileMail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="825">
+          <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
           <folding>
             <element signature="e#24#54#0" expanded="true" />
           </folding>
@@ -584,45 +638,65 @@
     </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3615">
+        <state relative-caret-position="688">
           <caret line="241" selection-start-line="241" selection-end-line="241" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/driverManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="405">
+          <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
           <folding>
             <element signature="e#24#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountBots/elmundo.py">
+    <entry file="file://$PROJECT_DIR$/AccountBots/elpais.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="121" selection-end-line="153" />
+        <state relative-caret-position="272">
+          <caret line="138" column="67" selection-start-line="138" selection-start-column="64" selection-end-line="138" selection-end-column="67" />
           <folding>
             <element signature="e#25#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountBots/elpais.py">
+    <entry file="file://$PROJECT_DIR$/AccountBots/elmundo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="195">
+          <caret line="76" column="76" selection-start-line="76" selection-start-column="69" selection-end-line="76" selection-end-column="76" />
           <folding>
             <element signature="e#25#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountBots/ig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="129" column="79" lean-forward="true" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="79" />
+          <folding>
+            <element signature="e#24#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#24#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AccountBots/eldiario.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="164" column="56" selection-start-line="164" selection-start-column="56" selection-end-line="164" selection-end-column="56" />
+        <state relative-caret-position="467">
+          <caret line="161" column="37" lean-forward="true" selection-start-line="161" selection-start-column="37" selection-end-line="161" selection-end-column="37" />
           <folding>
             <element signature="e#25#47#0" expanded="true" />
           </folding>
