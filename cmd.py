@@ -2,7 +2,7 @@
 from AccountBots.eldiario import ElDiario
 from AccountBots.elpais import ElPais
 from AccountBots.elmundo import ElMundo
-
+from threading import Thread
 
 class MyShell:
 
@@ -132,12 +132,34 @@ class MyShell:
                 em = ElMundo(webdriver)
                 em.signup(headless=headless)
 
-
-
         elif(cmd[0] == "quit"):
             print ("Bye =)bye")
             return 0
 
+        elif (cmd[0] == "hiddenservice"):
+            if (len(cmd) == 1):
+                print("Current options for the hidden service tweaking:")
+                print("\t'start': start hidden service on daemon")
+                print("\t'start':")
+                print("\texpansion")
+                print("\tmarca")
+            elif (cmd[1] == "eldiario"):
+
+                headless = False
+                webdriver = "firefox"
+                if (cmd.__contains__("--tor")):
+                    webdriver = "firefox-torproxy"
+                if (cmd.__contains__("--invisible")):
+                    headless = True
+
+                ed = ElDiario(webdriver)
+                d = ed.login(headless=headless)
+                url = raw_input("URL of the new: ")
+                comment = raw_input("Comment to introduce: ")
+
+                ed.post_comment(url, comment, d, headless=headless)
+
+            elif (cmd[1] == "elmundo"):
         else:
             print("\nUsage:")
             print("\thelp:\tShow this message")

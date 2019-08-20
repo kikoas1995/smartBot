@@ -37,6 +37,15 @@ def get_selected_user(table, user):
     finally:
         db.close()
 
+def get_all_users(table):
+    try:
+        db = sqlcipher.connect("users.db")
+        db.executescript('pragma key="testing"; pragma kdf_iter=64000;')
+        row = db.execute("select * from " + table).fetchall()
+        return row
+    finally:
+        db.close()
+
 if __name__ == "__main__":
     insert_user("patatabrava", "anon", "example", "anon@gmail.com")
     a = get_random_user("patatabrava")

@@ -1040,3 +1040,88 @@ console.log: Accessibility service init or shutdown observer does not exist.
 console.log: Accessibility service init or shutdown observer does not exist.
 console.log: Accessibility service init or shutdown observer does not exist.
 console.log: Accessibility service init or shutdown observer does not exist.
+1565782242037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YU8piqFc1ZK8"
+*** You are running in headless mode.
+1565782243559	Marionette	INFO	Listening on port 37639
+1565782243645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1565782249222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VEKg3HMr5pEZ"
+*** You are running in headless mode.
+1565782250698	Marionette	INFO	Listening on port 42843
+1565782250751	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1566259293827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bGeD3wmxkq25"
+
+(firefox-esr:4726): Gtk-WARNING **: 02:01:33.867: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:4726): Gtk-WARNING **: 02:01:33.880: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:4726): Gtk-WARNING **: 02:01:33.880: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:4726): Gtk-WARNING **: 02:01:34.397: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:4726): Gtk-WARNING **: 02:01:34.397: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:4784): Gtk-WARNING **: 02:01:34.718: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:4784): Gtk-WARNING **: 02:01:34.731: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:4784): Gtk-WARNING **: 02:01:34.731: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1566259295462	Marionette	INFO	Listening on port 35017
+1566259295541	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:4850): Gtk-WARNING **: 02:01:35.825: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:4850): Gtk-WARNING **: 02:01:35.841: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:4850): Gtk-WARNING **: 02:01:35.841: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1566259300631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ip6naPXysekS"
+
+(firefox-esr:4899): Gtk-WARNING **: 02:01:40.673: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(firefox-esr:4899): Gtk-WARNING **: 02:01:40.686: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(firefox-esr:4899): Gtk-WARNING **: 02:01:40.686: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+
+(firefox-esr:4899): Gtk-WARNING **: 02:01:41.209: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:4899): Gtk-WARNING **: 02:01:41.209: Theme parsing error: <data>:1:76: Expected ')' in color definition
+
+(/usr/lib/firefox-esr/firefox-esr:4956): Gtk-WARNING **: 02:01:41.536: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:4956): Gtk-WARNING **: 02:01:41.550: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:4956): Gtk-WARNING **: 02:01:41.550: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+1566259302286	Marionette	INFO	Listening on port 39071
+1566259302342	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:5022): Gtk-WARNING **: 02:01:42.594: Theme parsing error: gtk.css:2281:23: Expected a valid selector
+
+(/usr/lib/firefox-esr/firefox-esr:5022): Gtk-WARNING **: 02:01:42.612: Theme parsing error: gtk.css:11535:3: '/*' in comment block
+
+(/usr/lib/firefox-esr/firefox-esr:5022): Gtk-WARNING **: 02:01:42.612: Theme parsing error: gtk.css:11641:2: '/*' in comment block
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

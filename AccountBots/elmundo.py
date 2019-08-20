@@ -84,9 +84,17 @@ class ElMundo(Bot):
         regButton.click()
 
         sleep(float(randint(0, 1)) + uniform(0, 1))
-        link = m.verify(page='elmundo')
+        href = m.verify(page='elmundo')
 
-        d.driver.get(link)
+        print (colored("[+]", "green") + (" Account confirmation link is: " + href))
+        d.driver.get(href)
+
+        print (colored("[+]", "green") + (" Account confirmed. :). Putting the new user into DB..."))
+
+        cryptoDB.insert_user("elmundo", self.user, self.pwd, self.email)
+
+        print (colored("[+]", "green") + (" User added successfully into DB"))
+
 
         len = 0
 
@@ -105,7 +113,7 @@ class ElMundo(Bot):
 
         print (colored("[+]", "green") + (" Seleccionando un usuario aleatorio de la base de datos para logarse..."))
 
-        user = cryptoDB.get_random_user("eldiario")
+        user = cryptoDB.get_random_user("elmundo")
 
         reg_pwd = user[2]
         reg_mail = user[3]
