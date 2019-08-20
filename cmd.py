@@ -6,7 +6,7 @@ from threading import Thread
 
 class MyShell:
 
-    def __init__(self): 
+    def __init__(self):
         pass
 
     def eval(self, cmdlist):
