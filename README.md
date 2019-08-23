@@ -1,6 +1,6 @@
 # smartBot
 _A try to make a bot sufficiently clever to bypass bot detection algorithms of common webpages_
-![alt text](http://url/to/img.png)
+
 ## Pre-requisites 📋
 Before using, it is neccessary to install the following packages:
 
@@ -21,7 +21,7 @@ Usage:
 	help:	Show this message
 	register <name of service> [--hidden] [--tor]: Register an anonymous user in a service and save it into local database
 	comment <name of service>  [--hidden] [--tor]: post a comment with an anonymous user in a service
-  hiddenservice <start|stop> [--daemon] Launch a hidden service showing the contents of the users DB
+  	hiddenservice <start|stop> [--daemon] Launch a hidden service showing the contents of the users DB
 	quit:	Exit the program
 smartBot >>> 
 ```
