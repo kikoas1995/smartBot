@@ -9,7 +9,7 @@ pip install -r smartBotReqs.txt
 ```
 ## Usage
 This tool is used as an interactive shell, where you can launch a bot which creates an anonymous aaccount in a hidden-service.The main screen is:
-'''
+```
                            _   ____        _   
   ___ _ __ ___   __ _ _ __| |_| __ )  ___ | |_ 
  / __| '_ ` _ \ / _` | '__| __|  _ \ / _ \| __|
@@ -24,7 +24,7 @@ Usage:
   hiddenservice <start|stop> [--daemon] Launch a hidden service showing the contents of the users DB
 	quit:	Exit the program
 smartBot >>> 
-'''
+```
 ## Developed with
 
 This tool has been built using of the following librarie and frameworks: 
