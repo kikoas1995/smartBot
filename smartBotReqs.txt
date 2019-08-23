@@ -1,0 +1,8 @@
+pip install names
+pip install selenium
+pip install stem
+pip install flask
+pip install obfuscate
+pip install pysqlcipher
+pip install dbapi2
+pip install tempMail
