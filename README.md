@@ -21,3 +21,8 @@ This tool has been built using of the following librarie and frameworks:
 * [Flask](https://maven.apache.org/) - Used to deploy the hidden web-service
 * [Stem](https://rometools.github.io/rome/) - Used to create tor relays and to launch the hidden service
 
+## License
+
+This work is under Creative Commons Attribution – NonCommercial – NoDerivatives.
+
+![alt text](https://co.creativecommons.org/wp-content/uploads/2008/02/by-nc-nd.png | =256x256)
