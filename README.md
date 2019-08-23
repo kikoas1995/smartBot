@@ -1,7 +1,9 @@
-# smartBot
+# smartBot  <img src="https://icon-library.net/images/robot-icon-free/robot-icon-free-7.jpg" height="50" width="60"> 
 _A try to make a bot sufficiently clever to bypass bot detection algorithms of common webpages_
 
-## Pre-requisites 📋
+
+
+## Pre-requisites 
 Before using, it is neccessary to install the following packages:
 
 ```
